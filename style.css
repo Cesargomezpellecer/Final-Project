@@ -173,7 +173,7 @@ span:nth-child(7)
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
-    float: inline-start;
+    float: center;
   }
   .fa:hover {
     opacity: 0.7;
@@ -186,3 +186,14 @@ span:nth-child(7)
         background: #125688;
         color: white;
       }
+ .About-Section {
+    height: 645px;
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.map {
+    padding-top: 150px;
+
+}
